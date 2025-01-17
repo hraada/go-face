@@ -1,3 +1,3 @@
-module github.com/Kagami/go-face
+module github.com/hraada/go-face
 
 go 1.14
